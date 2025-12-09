@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "愛のシュプリーム！",
+  "base_artist": "fhana",
+  "createdAt": "2025-12-09T11:48:13.640015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のシュプリーム! - スーパーちょろゴンず ver.",
+      "artist": "スーパーちょろゴンず",
+      "has_synced": true,
+      "path": "select/01_愛のシュプリーム!_-_スーパーちょろゴンず_ver._スーパーちょろゴンず.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！ (スーパーちょろゴンず ver.)",
+      "artist": "スーパーちょろゴンず",
+      "has_synced": true,
+      "path": "select/02_愛のシュプリーム!_(スーパーちょろゴンず_ver.)_スーパーちょろゴンず.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！(スーパーちょろゴンず ver.)",
+      "artist": "スーパーちょろゴンず[トール(CV.桑原由気)、カンナ(CV.長縄まりあ)、エルマ(CV.高田憂希)、ルコア(CV.髙橋ミナミ)、イルル(CV.嶺内ともみ)]",
+      "has_synced": true,
+      "path": "select/03_愛のシュプリーム!(スーパーちょろゴンず_ver.)_スーパーちょろゴンず[トール(CV.桑原由気)、カンナ(CV.長縄まりあ)、エルマ(CV.高田憂希)、ルコア(CV.髙橋ミナミ)、イルル(CV.嶺内ともみ)].lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！(スーパーちょろゴンず ver.)",
+      "artist": "スーパーちょろゴンず",
+      "has_synced": true,
+      "path": "select/04_愛のシュプリーム!(スーパーちょろゴンず_ver.)_スーパーちょろゴンず.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！",
+      "artist": "スーパーちょろゴンず",
+      "has_synced": true,
+      "path": "select/05_愛のシュプリーム!_スーパーちょろゴンず.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！",
+      "artist": "fhána",
+      "has_synced": true,
+      "path": "select/06_愛のシュプリーム!_fhána.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛のシュプリーム！",
+      "artist": "fhana",
+      "has_synced": true,
+      "path": "select/07_愛のシュプリーム!_fhana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のシュプリーム!",
+      "artist": "fhana",
+      "has_synced": false,
+      "path": "select/pl_01_愛のシュプリーム!_fhana.txt"
+    }
+  ]
+}
